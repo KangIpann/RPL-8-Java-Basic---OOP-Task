@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperation/BitwiseOperation.iml" filepath="$PROJECT_DIR$/BitwiseOperation/BitwiseOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NyobaOOP/NyobaOOP.iml" filepath="$PROJECT_DIR$/NyobaOOP/NyobaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPL 8.iml" filepath="$PROJECT_DIR$/RPL 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipeData/TipeData.iml" filepath="$PROJECT_DIR$/TipeData/TipeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas RPL8/Tugas RPL8.iml" filepath="$PROJECT_DIR$/Tugas RPL8/Tugas RPL8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TugasOperator/TugasOperator.iml" filepath="$PROJECT_DIR$/TugasOperator/TugasOperator.iml" />
+    </modules>
+  </component>
+</project>
