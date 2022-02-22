@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "UKLoop/src",
         "UKLBENERAN/src",
         "UKL/src",
         "TugasArray/src",
@@ -7,9 +8,9 @@
         "Tugas Perulangan/src",
         "PrepareUKL/src",
         "OOP RPL8/src",
+        "NyobaOOP",
         "Nggatau/src/nggatau",
         "Fungsi/src",
-        "UKLoop/src",
-        "NyobaOOP"
+        "OOP RPL8/Inheritance/src"
     ]
 }
