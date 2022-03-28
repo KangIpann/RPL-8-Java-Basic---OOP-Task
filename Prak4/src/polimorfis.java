@@ -7,7 +7,7 @@ class pegawai {
 
     pegawai(String nm) {
         this.nama = nm;
-        System.out.println("pegawai");
+        System.out.println(nm);
     }
 
     public int Gaji() {
@@ -52,6 +52,11 @@ class staf extends pegawai {
 }
 
 class pembayaranGaji {
+    public pembayaranGaji(int nm) {
+        int gajiasli = 999 + nm;
+        System.out.println(gajiasli);
+    }
+
     public int hitungGaji(pegawai peg) {
         int uang = peg.Gaji();
         if (peg instanceof dir) {
@@ -64,9 +69,9 @@ class pembayaranGaji {
     }
 
     public static void main(String[] args) {
-        pembayaranGaji pg = new pembayaranGaji();
-        staf ali = new staf("Ali");
-        dir tony = new dir("tony");
+        pembayaranGaji pg = new pembayaranGaji(50);
+        staf ali = new staf("Tony");
+        dir tony = new dir("Ali");
         System.out.println("Gaji staff = " + pg.hitungGaji(ali));
         System.out.println("Gaji direktur = " + pg.hitungGaji(tony));
     }
