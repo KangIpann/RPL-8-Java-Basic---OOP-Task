@@ -1,4 +1,4 @@
-public class TokoOnline {
+public class TokoOnline extends Laporan {
     public static void main(String[] args) {
         Laporan lapor = new Laporan();
         Transaksi tf = new Transaksi();
